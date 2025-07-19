@@ -32,4 +32,4 @@ This project implements real-time object detection using **YOLOv5** and **YOLOv8
 git clone https://github.com/AayushThakar/Animal-detection-using-YOLO.git
 
 # Open notebook
-Open animal_detection.ipynb in Jupyter or Google Colab
+Open main.ipynb in Jupyter or Google Colab
